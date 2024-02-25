@@ -6,5 +6,4 @@ En esta aplicación practicamos vistas, modelos, y extensiones necesarias para l
   • Detalles completos de películas, incluyendo sinopsis, elenco, y calificaciones.
   • Integración de videos de YouTube para trailers y clips.
    
-![Captura de pantalla 25 02 2024 a 17 39 15 p  m](https://github.com/gliadev/TheMovieBDProject/assets/78279221/5d0899fb-8f02-480c-8750-616b829979dc)
-![Captura de pantalla 25 02 2024 a 17 40 27 p  m](https://github.com/gliadev/TheMovieBDProject/assets/78279221/79a8a440-d9a1-48c7-a6f8-e1d72ba1a4ec)
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-25 at 17 41 10](https://github.com/gliadev/TheMovieBDProject/assets/78279221/132acd19-b05e-43a0-abfc-55bc214e17d0)
