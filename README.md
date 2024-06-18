@@ -5,10 +5,16 @@
 ✨ Características
 
 🌟 Descubrimiento de Películas: Navega por las últimas y más populares películas con imágenes de alta calidad e información detallada.
+
 🔍 Funcionalidad de Búsqueda: Busca fácilmente tus películas favoritas y descubre nuevas.
+
 📋 Vistas Detalladas: Obtén detalles completos sobre cada película, incluyendo calificaciones, fechas de lanzamiento y sinopsis.
+
 ❤️ Películas Favoritas: Guarda tus películas favoritas para acceder rápidamente a ellas más tarde.
+
 📱 Diseño Responsivo: Disfruta de una experiencia consistente tanto en iPhone como en iPad con el diseño adaptativo de SwiftUI.
+
+
 🛠️ Tecnologías Utilizadas
 
 SwiftUI: Aprovechando el poder de SwiftUI para construir una interfaz de usuario dinámica y escalable.
